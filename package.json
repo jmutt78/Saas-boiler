@@ -1,0 +1,9 @@
+{
+  "name": "saas-boiler",
+  "version": "1.0.0",
+  "description": "Saas boilerplate app",
+  "repository": "git@github.com:jmutt78/Saas-boiler.git",
+  "author": "Justin McIntosh",
+  "license": "MIT",
+  "private": true
+}
