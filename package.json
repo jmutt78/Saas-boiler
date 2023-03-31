@@ -37,7 +37,7 @@
     "@pothos/plugin-simple-objects": "^3.4.0",
     "@prisma/client": "^4.2.0",
     "@stripe/stripe-js": "^1.35.0",
-    "@urql/exchange-graphcache": "^4.4.3",
+    "@urql/exchange-graphcache": "^6.0.1",
     "cookie-session": "^2.0.0",
     "dotenv": "^16.0.1",
     "graphql": "^16.5.0",
